@@ -3,7 +3,7 @@
 In this module, we are helping Robin on web-scraping for information of Mars. In this project, data was scraped from the official website of NASA, and the final portfolio was obtained and displayed in local flask disk. 
 
 ## Summary:
-* ![Portfolio](images\Mars_Portfolio_1.png)
+* ![Portfolio](\images\Mars_Portfolio_1.png)
 
 ## Resources:
 * movies_metadata.csv

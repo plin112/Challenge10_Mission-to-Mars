@@ -7,7 +7,4 @@ In this module, we are helping Robin on web-scraping for information of Mars. In
 * ![Portfolio2](images/Mars_Portfolio_2.png)
 
 ## Resources:
-* movies_metadata.csv
-* ratings.csv
-* wikipedia.movies.json
-* note: files are stored in google drive due to large file size, and the shared-like is https://drive.google.com/drive/folders/1e3ESjmDZLFLbkudwltawU3UXJNAwhcQ7?usp=sharing
+* Data was scraped from https://mars.nasa.gov/news/ and https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
